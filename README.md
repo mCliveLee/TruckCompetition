@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<!-- 2017-03-13 -->
+This is a Truck competition website.
 
-Things you may want to cover:
+There are two roles, Driver and Committee.
 
-* Ruby version
+Committee role deputy:
+- Manage Match, include: Add/Edit/delete Match
+- Publish/hide Match
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Driver role deputy:
+- Register Match (include driver license upload)
+- Match result inquiry
